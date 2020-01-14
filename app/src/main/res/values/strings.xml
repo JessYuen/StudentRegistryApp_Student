@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Students Database</string>
+    <string name="del">Del</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="unit">Unit</string>
+    <string name="delete">Delete</string>
+</resources>
